@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reserve-serapi.vercel.app/sitemap.xml
